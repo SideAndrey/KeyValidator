@@ -12,7 +12,7 @@ https://github.com/SideAndrey/KeyValidator/issues/1
 https://github.com/SideAndrey/KeyValidator/issues/2
 https://github.com/SideAndrey/KeyValidator/issues/3
 
-Описание процесса тестирования
+<h2>Описание процесса тестирования</h2>
 
 В процессе тестирования использовались следующие артефакты:
 
