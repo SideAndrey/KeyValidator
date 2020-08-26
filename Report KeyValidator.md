@@ -29,6 +29,9 @@ https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.
 Тестирование производилось в следующем окружении:
 
 macOS version 10.15.4 (19E287)64bit 
+
 openjdk version "11.0.7" 2020-04-14
+
 OpenJDK Runtime Environment AdoptOpenJDK (build 11.0.7+10)
+
 OpenJDK 64-Bit Server VM AdoptOpenJDK (build 11.0.7+10, mixed mode)
