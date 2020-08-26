@@ -1,5 +1,7 @@
-Отчёт о тестировании KeyValidator
+Отчёт о тестировании "KeyValidator"
+
 Краткое описание
+
 18.05.2020 было проведено тестирование инсталляции и функциональное тестирование приложения KeyValidator.
 
 На тестирование затрачено: 2 часа
@@ -11,6 +13,7 @@ https://github.com/SideAndrey/KeyValidator/issues/2
 https://github.com/SideAndrey/KeyValidator/issues/3
 
 Описание процесса тестирования
+
 В процессе тестирования использовались следующие артефакты:
 
 checklist.txt
