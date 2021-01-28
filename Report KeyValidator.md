@@ -6,8 +6,8 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-https://github.com/SideAndrey/KeyValidator/issues/1
-https://github.com/SideAndrey/KeyValidator/issues/2
+[Вывод результата FAIL для 2 валидных ключей при проверке списка валидных ключей для KeyValidator №1] (https://github.com/SideAndrey/KeyValidator/issues/2)
+
 https://github.com/SideAndrey/KeyValidator/issues/3
 
 Описание процесса тестирования
